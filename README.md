@@ -1,4 +1,4 @@
-https://github.com/weera116/v2ray-vpn.git
+https://github.com/weera116/v2ray-vpn.githttps://github.com/weera116/v2ray-vpn.git
  <div align="center">
   <a href="">
     <img src="FI_RGB_Secondary_Logo_black_gradient.png" alt="Straiberry">
@@ -78,7 +78,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
 
 <br/>
 
-## Client : Mobile
+# Client : Mobile
 * Install V2rayNG app on google play. [Click here](https://play.google.com/store/apps/details?id=com.v2ray.ang&hl=en&gl=US).
 * Open the app and click on plus sign at the top corner
 * Select one off options `Import config from QR code` or `Impport config from clipboard` and import the credentials
